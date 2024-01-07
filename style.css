@@ -40,13 +40,20 @@
   margin: 0;
   padding: 0px;
 }
-.task-item, .section-title {
+.task-item,
+.section-title {
   list-style: none;
 }
-.task-input, .tasks-checkbox, .adding-btn, .edit-btn, .delete-btn{
+.task-input,
+.tasks-checkbox,
+.adding-btn,
+.edit-btn,
+.delete-btn{
   outline: none;
 }
-.adding-btn, .edit-btn, .delete-btn {
+.adding-btn,
+.edit-btn,
+.delete-btn {
   background: none;
   border: 0px;
   color: #888;
@@ -55,7 +62,9 @@
   font-family: Lato, sans-serif;
   cursor: pointer;
 }
-.adding-btn:hover, .edit-btn:hover, .delete-btn:hover {
+.adding-btn:hover,
+.edit-btn:hover,
+.delete-btn:hover {
   color: #3a3A3a;
 }
 /* Heading */
