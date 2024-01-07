@@ -18,8 +18,9 @@
 }
 
 @media (max-width:768px) {
-.poster-wrap { text-align: center;
-}
+  .poster-wrap {
+    text-align: center;
+  }
 }
 .main-container {
   display: block;
